@@ -1,4 +1,4 @@
 # FirstRepo
 My first repo
 
-This is the branch 1
+This is the master branch
